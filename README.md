@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Deepak Baraskar</h1>
 <h3 align="center">A passionate Data Science from India</h3>
 
-- 🔭 I’m currently studying in [4th year]((A.I.& D.S.))
+- 🔭 I’m complted my B.tech in 2025
+- ((A.I.& D.S.))
 
 - 🌱 I’m currently learning **B.Tech**
 
