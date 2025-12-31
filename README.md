@@ -4,7 +4,7 @@
 - 🔭 I’m complted my B.tech in 2025
 - ((A.I.& D.S.))
 
-- 🌱 I’m currently learning **B.Tech**
+- 🌱 I’m completed my **B.Tech**
 
 - 👯 I’m looking to collaborate on **New Companies**
 
