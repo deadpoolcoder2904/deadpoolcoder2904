@@ -70,7 +70,7 @@
 ### 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deadpoolcoder2904&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deadpoolcoder2904&layout=donut&langs_count=8&card_width=400&hide_border=true&title_color=2E9EF7&text_color=ffffff&bg_color=0d1117" width="60%" />
 </p>
 
 ---
