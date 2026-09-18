@@ -61,8 +61,17 @@
 | 🌸 Iris Flower Classification | Multi-class classification on the classic Iris dataset | Python |
 | 🤖 Rule-Based Chatbot | Simple rule-based conversational bot | Python |
 | ⭕ Tic-Tac-Toe | Game built with AI logic during the CodSoft internship | Python |
+| 🐍 Snake Game | Classic Snake game with score tracking and increasing difficulty, built using core game-loop logic | Python |
 
 > 📁 Explore all repositories on my [GitHub profile](https://github.com/deadpoolcoder2904).
+
+---
+
+### 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deadpoolcoder2904&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
+</p>
 
 ---
 
@@ -71,10 +80,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=deadpoolcoder2904&show_icons=true&theme=tokyonight&count_private=true" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=deadpoolcoder2904&theme=tokyonight" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deadpoolcoder2904&layout=compact&theme=tokyonight" width="45%" />
 </p>
 
 <p align="center">
