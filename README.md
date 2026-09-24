@@ -28,7 +28,7 @@
 - 📜 Certified in Machine Learning (Andrew Ng, Coursera), SQL for Data Analysis (Coursera), and Power BI for Data Analytics (Microsoft)
 - 🏆 Compete in coding contests (Python, NumPy, pandas)
 - 📷 When I'm not looking at data, I'm usually behind a camera
-- 😄 Fun fact: I think I'm funny
+- 😄 Fun fact:honey never spoils
 
 ---
 
@@ -61,7 +61,7 @@
 | 🌸 Iris Flower Classification | Multi-class classification on the classic Iris dataset | Python |
 | 🤖 Rule-Based Chatbot | Simple rule-based conversational bot | Python |
 | ⭕ Tic-Tac-Toe | Game built with AI logic during the CodSoft internship | Python |
-| 🐍 Snake Game | Classic Snake game with score tracking and increasing difficulty, built using core game-loop logic | Python |
+
 
 > 📁 Explore all repositories on my [GitHub profile](https://github.com/deadpoolcoder2904).
 
