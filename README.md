@@ -28,7 +28,7 @@
 - 📜 Certified in Machine Learning (Andrew Ng, Coursera), SQL for Data Analysis (Coursera), and Power BI for Data Analytics (Microsoft)
 - 🏆 Compete in coding contests (Python, NumPy, pandas)
 - 📷 When I'm not looking at data, I'm usually behind a camera
-- 😄 Fun fact:honey never spoils
+- 😄 Fun fact: Honey never spoils
 
 ---
 
